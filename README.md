@@ -18,6 +18,7 @@ Ich bin mir bewusst, dass es einige Probleme mit dem Spiel gibt, insbesondere:
 Wenn Sie einen Vorschlag zur Verbesserung dieser Probleme haben, erstellen Sie bitte ein GitHub-Problem.
 
 ## Zuschreibungen
+- Dies ist die inoffiziele Übersetung von Globle (The Abe Train) auf Deutsch 
 - Dieses Spiel wurde inspiriert von Wordle und den "Secret Country"-Geografie-Spielen von [Sporcle](https://sporcle.com)
 - Die Länderumrisse im Hilfebildschirm stammen von Vemaps.com
 - Die Favicons stammen von favicon.io
