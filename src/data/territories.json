@@ -240,7 +240,7 @@
         ]
       },
       "properties": {
-        "SOVEREIGNT": "Denmark",
+        "SOVEREIGNT": "Dänemark",
         "ADMIN": "Grönland \n (Dänemark)",
         "TYPE": "Territory"
       }
@@ -295,7 +295,7 @@
         ]
       },
       "properties": {
-        "SOVEREIGNT": "United States of America",
+        "SOVEREIGNT": "Vereinigte Staaten von Amerika",
         "ADMIN": "Puerto Rico \n (U.S.A.)",
         "TYPE": "Territory"
       }

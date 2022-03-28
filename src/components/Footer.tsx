@@ -12,7 +12,7 @@ export default function Footer({ setScreen }: Props) {
   return (
     <footer className="pt-8 pb-4 text-xs flex justify-between w-full">
       <span className="flex space-x-3">
-        <a href="https://the-abe-train.com">von The Abe Train</a>
+        <a href="https://the-abe-train.com">von The Abe Train übersetzt von TG</a>
         <a href="https://twitter.com/theAbeTrain" aria-label="Twitter">
           <svg
             xmlns="http://www.w3.org/2000/svg"
